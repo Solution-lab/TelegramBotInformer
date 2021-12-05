@@ -1,0 +1,15 @@
+{
+	"DatabaseSettings": {
+		"Address": "",
+		"Name": "",
+		"Password": "",
+		"User": ""
+	},
+	"TelegramBotProxy": {
+		"Host": "",
+		"Password": "",
+		"Port": 0,
+		"UserName": ""
+	},
+	"TelegramBotToken": ""
+}
